@@ -1,14 +1,26 @@
 # 牛牛雷达版
 
+> **迁移提示（2026-10-22）：** 本仓库保留牛牛雷达版的历史下载和发布记录。后续功能更新统一使用[牛牛个人定制版](https://github.com/franklai-rise/NiuNiu-Releases)。已有雷达版用户请先阅读[迁移指引](MIGRATION.zh-CN.md)，备份设置后再迁移。
+
 **牛牛雷达版（NiuNiu Radar）** 是基于牛牛的 Windows 衍生版，在硬件与网络监控基础上加入 Codex GPT 雷达缓存、综合评分和可定制的任务栏显示。
 
 本仓库是公开的**发布渠道**，只保存安装说明和 GitHub Release 附件，**不包含应用源码**。
 
-## 下载
+## 后续更新与迁移
 
-请从 [最新正式版](https://github.com/franklai-rise/NiuNiu-Radar-Downloads/releases/latest) 下载 Windows x64 安装包。
+- [下载个人定制版最新正式安装包](https://github.com/franklai-rise/NiuNiu-Releases/releases/latest)
+- [雷达版 → 个人定制版迁移指引](MIGRATION.zh-CN.md)
+- [个人定制版发布记录](https://github.com/franklai-rise/NiuNiu-Releases/releases)
 
-## 发布约定
+两个仓库均为公开下载渠道，应用源码保持私有。功能范围以各正式 Release 的说明为准。
+
+## 历史下载
+
+[牛牛雷达版 v0.1.0](https://github.com/franklai-rise/NiuNiu-Radar-Downloads/releases/tag/v0.1.0) 及其原安装包继续保留，供恢复旧环境或查阅历史使用。
+
+本仓库的旧版更新接口仍指向历史发布记录。文档更新不会自动替换已安装程序、改写更新地址或迁移配置。
+
+## 历史发布约定
 
 | 项目 | 约定 |
 | --- | --- |

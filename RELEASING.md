@@ -1,5 +1,7 @@
 # 发布牛牛雷达版
 
+> 本仓库现用于保留历史版本与[迁移指引](MIGRATION.zh-CN.md)。后续功能更新统一通过 [franklai-rise/NiuNiu-Releases](https://github.com/franklai-rise/NiuNiu-Releases) 发布。下列内容记录雷达版原有的标签、附件与更新接口约定，不应据此把个人定制版安装包上传为雷达版自动更新。
+
 本仓库仅用于公开发布，不提交应用源码或构建中间文件。
 
 ## 正式版
